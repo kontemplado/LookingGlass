@@ -85,6 +85,10 @@ For an HTTPS setup please visit:
 - [Best nginx configuration for security](http://tautt.com/best-nginx-configuration-for-security/)
 - [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 
+## Hosters with Looking Glass
+
+<a href="https://go.kontemplado.com/t26u7">IPv4</a>, <a href="https://go.kontemplado.com/g4gyt">IPv6</a>, <a href="https://go.kontemplado.com/w6mv7">Download Files</a>
+
 ## License
 
 Code is licensed under MIT Public License.
